@@ -1,4 +1,4 @@
-    Simple timer could mark code chunk time cost with given lable and sum up to as formatted report.
+    Simple timer, could mark code chunk time cost with given lable, and sum up all time point as formatted log report.
     
     /**
      * Full example
