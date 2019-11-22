@@ -1,3 +1,5 @@
+    代码内部计时器，提供长段代码中，各个代码块的计时功能，最终生成格式化的报告（String）,可以打印出来供debug或日志收集。
+    
     Simple timer, could mark code chunk time cost with given lable, and sum up all time point as formatted log report.
     
     /**
